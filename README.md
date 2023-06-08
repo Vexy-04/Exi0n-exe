@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Varun A L 
-- 🎮 My IGN is Exi0n_04
-- ▶️ My Youtube Channel : [Exi0n_04](https://www.youtube.com/@Exi0n04)
+- 🎮 My IGN is Vexy
+~~ - ▶️ My Youtube Channel : [Exi0n_04](https://www.youtube.com/@Exi0n04) ~~
 - 👀 I’m interested in Gaming and Editing
 - 🌱 I’m currently learning Programing
 - 📫 How to reach me varunal2003@gmail.com
