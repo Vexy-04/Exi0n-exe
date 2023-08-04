@@ -5,13 +5,13 @@
 
 - 🏫 I’m currently studing **BE in Information Science and Engineering**
 
-- 👨‍💻 All of my projects are available at [( Yet to be made avaliable )](( Yet to be made avaliable ))
+- 👨‍💻 All of my projects are available at ( Yet to be made avaliable )
 
 - 🌱 I’m currently learning **FullStack**
 
 - 📫 How to reach me **varunal2003@gmail.com**
 
-- 📄 Know about my experiences [( Yet to be made )](( Yet to be made ))
+- 📄 Know about my experiences ( Yet to be made )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
