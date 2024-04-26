@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varun A L</h1>
+<h1 align="center">Hi 👋, I'm Varun A L</h1> 
 <h3 align="center">A passionate frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vexy-04&label=Profile%20views&color=0e75b6&style=flat" alt="vexy-04" /> </p>
