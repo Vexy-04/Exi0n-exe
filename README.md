@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Red and Black Dark Gamer Sports YouTube Banner.png"  />
+  <img src="banner.png"  />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=varun-al&icon=0&color=0)](https://visitcount.itsvg.in)
