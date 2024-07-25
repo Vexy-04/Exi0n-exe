@@ -46,9 +46,9 @@
     <div style="flex: 1 1 300px; max-width: 500px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-al&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </div>
-    <div style="flex: 1 1 300px; max-width: 500px;">
+    <!-- <div style="flex: 1 1 300px; max-width: 500px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-al&theme=dark&hide_border=false" />
-    </div>
+    </div> -->
   </div>
 </div>
 
