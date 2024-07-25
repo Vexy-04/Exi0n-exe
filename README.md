@@ -39,19 +39,18 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="flex: 1 1 300px; max-width: 500px;">
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;">
+    <div style="flex: 1 1 300px; max-width: 500px; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=varun-al&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
     </div>
-    <div style="flex: 1 1 300px; max-width: 500px;">
+    <div style="flex: 1 1 300px; max-width: 500px; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-al&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </div>
-    <!-- <div style="flex: 1 1 300px; max-width: 500px;">
+    <!-- <div style="flex: 1 1 300px; max-width: 500px; padding: 10px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-al&theme=dark&hide_border=false" />
     </div> -->
   </div>
 </div>
-
 
 
 <!-- ### ✍️ Random Dev Quote
