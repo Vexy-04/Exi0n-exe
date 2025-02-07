@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=varun-al&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭 I’m currently working on **AI Telemedicine ChatBot**<br>
+<!---🔭 I’m currently working on **AI Telemedicine ChatBot**<br>-->
 🌱 I’m currently studing **BE in Information Science and Engineering**<br>
 💬 Ask me about on **varunal2003@gmail.com**<br>
 ⚡ Fun fact I do Digital Art and love Video Games
